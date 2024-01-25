@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Admin_Buyit</string>
+    <string name="select">Select Item</string>
+    <string-array name="categories">
+        <item>laptops</item>
+        <item>jewelry</item>
+        <item>Shoes</item>
+        <item>mobile</item>
+        <item>men\'s Clothing</item>
+        <item>electronics</item>
+    </string-array>
+</resources>
